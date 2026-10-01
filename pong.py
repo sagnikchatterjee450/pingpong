@@ -1,7 +1,6 @@
 import sys
 import pygame
 
-# Simple Pong game using pygame
 
 WIDTH, HEIGHT = 800, 600
 FPS = 60
