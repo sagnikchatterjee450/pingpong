@@ -1,7 +1,6 @@
 # Simple Pong Game
 
 Requirements:
-
 - Python 3.8+
 - pygame
 
